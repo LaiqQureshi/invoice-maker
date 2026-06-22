@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://laiqqureshi.github.io/invoice-maker/sitemap.xml
 
+Sitemap: https://laiqqureshi.github.io/invoice-maker/sitemap.xml
