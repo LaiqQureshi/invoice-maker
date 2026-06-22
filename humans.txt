@@ -1,0 +1,9 @@
+/* TEAM */
+Developer: Laiq Qureshi
+Website: https://github.com/LaiqQureshi
+Location: Remote
+
+/* SITE */
+Last update: June 2026
+Stack: HTML, CSS, JavaScript, html2canvas
+Purpose: Free, private invoice generator
